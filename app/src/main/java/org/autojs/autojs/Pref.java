@@ -2,6 +2,7 @@ package org.autojs.autojs;
 
 import android.content.Context;
 import android.content.SharedPreferences;
+import android.os.Build;
 import android.os.Environment;
 import androidx.preference.PreferenceManager;
 import com.stardust.app.GlobalAppContext;

@@ -1,7 +1,109 @@
 # Change Log
 autoxjs 整个项目的一些更新日志,双版本号为稳定版（内容以修复的bug为主），单版本号为激进版本、发布新内容。
 
-## [Unreleased](https://github.com/kkevsekk1/AutoX/compare/6.6.1...HEAD) 未发布
+## [Unreleased](https://github.com/kkevsekk1/AutoX/compare/6.6.7...HEAD) 未发布
+
+
+## [6.6.7] - 2024-8-15
+
+@Liberations
+
+*  dex 加载问题
+
+[6.6.7]:https://github.com/kkevsekk1/AutoX/compare/6.6.6...6.6.7
+
+
+
+
+## [6.6.6] - 2024-7-28
+
+@Liberations
+
+*  修复打开USB调试开关后VSCODE无法正常连接手机进行调试 
+*  修复定时选项问题
+*  APP处于后台时Toast不显示等问题
+
+[6.6.6]:https://github.com/kkevsekk1/AutoX/compare/6.6.5...6.6.6
+
+
+## [6.6.5] - 2024-7-14
+
+@Liberations
+
+*  Android 11以上外部存储权限适配
+*  新建文件bug
+*  读取包、应用列表问题
+*  截图失败问题
+
+@happyme531
+
+* 设置帧率问题 
+
+
+
+[6.6.5]:https://github.com/kkevsekk1/AutoX/compare/6.6.4...6.6.5
+
+
+
+
+## [6.6.4] - 2024-7-7
+
+@gaomanyi
+
+*  修复android14 中工程项目显示异常问题。
+*  修复布局分析问题
+*  wifi 链接vscode报错
+
+@Lin 
+
+* 修复编辑器无法进入
+* 修复定时任务初始化错误
+
+
+[6.6.4]:https://github.com/kkevsekk1/AutoX/compare/6.6.3...6.6.4
+
+
+
+## [6.6.3] - 2024-6-23
+
+@SOCK-MAGIC
+
+*  增加模块 model
+*  迁移到网络模块
+*  修复点击事件
+*  修复bug无数
+*  修复版本号问题
+*  kotlin2.0 问题修复
+  
+@Lin 
+
+*  增加安卓14的适配
+*  恢复误删的权限一大批
+*  修复报错的bug无数
+
+
+@Shaun-Fong
+
+*  修复广播接收问题
+*  修复bug一批
+*  安卓14兼容问题
+
+
+[6.6.3]:https://github.com/kkevsekk1/AutoX/compare/6.6.2...6.6.3
+
+
+## [6.6.2] - 2024-6-4
+
+@refactor
+
+*  更新配置
+*  修复类型不匹配
+*  简化初始化视图
+*  删除未使用代码
+*  修复很多bug
+
+[6.6.2]:https://github.com/kkevsekk1/AutoX/compare/6.6.1...6.6.2
+
 
 ## [6.6.1] - 2024-5-12
 
